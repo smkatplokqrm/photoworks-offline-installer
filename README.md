@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Photo+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Photo+Editing-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 PhotoWorks Free Installer** — PhotoWorks is an AI-powered photo editing software for Windows with an intuitive interface for color correction, retouching, background replacement, and portrait enhancement. Works without internet access, no account required. Full offline installation.
+**💻 PhotoWorks Free Installer** — PhotoWorks is a photo editing application for Windows designed for casual to intermediate photographers. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About PhotoWorks
 
-PhotoWorks is an AI-powered photo editing software for Windows with an intuitive interface for color correction, retouching, background replacement, and portrait enhancement. Targets amateur photographers wanting professional results with minimal learning.
+PhotoWorks is a photo editing application for Windows designed for casual to intermediate photographers. Features include portrait retouching with AI skin smoothing, background replacement, sky enhancement, color correction, and effects. PhotoWorks' guided tools and simple interface make photo enhancement accessible to users who want quick, impressive results without extensive editing knowledge.
 
 ---
 
 ## ❌ Problem: PhotoWorks is hard to access
 
-- **Windows Only** — No macOS or Linux version
-- **Subscription Model** — Requires subscription for continued updates and cloud features
-- **Limited Professional Tools** — Missing advanced features needed by professional photographers
-- **Competition** — Luminar Neo offers similar AI features with a more modern interface
+- **Windows Only** — No macOS version
+- **Feature Depth** — Not suitable for professional photography or print production
+- **AI Accuracy** — Automated enhancements may not suit every photo
+- **Commercial License** — Subscription pricing
 
 ---
 
@@ -121,7 +121,7 @@ PhotoWorks is an AI-powered photo editing software for Windows with an intuitive
 
 ---
 
-**PhotoWorks Free Installer** — PhotoWorks is an AI-powered photo editing software for Windows with an intuitive interface for color correction, retouching, background replacement, and portrait enhancement. Install without internet connection today!
+**PhotoWorks Free Installer** — PhotoWorks is a photo editing application for Windows designed for casual to intermediate photographers. Install without internet connection today!
 
 <div align="center">
 
